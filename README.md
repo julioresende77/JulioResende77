@@ -17,11 +17,13 @@
 
 ## 👩‍🎓 Formação
 <div style="display: block">
-  👩‍💻 Tecnico em montagem e manutenção de computadores
-  👩‍💻 Front-end & Back-end - Dev Quest - Dev Em Dobro
-  👩‍💻 Full Stack Developer - SENAI
+  👩‍💻 Tecnico em montagem e manutenção de computadores <br>
+  👩‍💻 Front-end & Back-end - Dev Quest - Dev Em Dobro <br>
+  👩‍💻 Full Stack Developer - SENAI <br>
   👩‍💻 Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
   </div>
+
+  <br>
  
 ### Minhas redes sociais!
  
