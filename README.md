@@ -20,12 +20,10 @@
   👩‍💻 Tecnico em montagem e manutenção de computadores
   👩‍💻 Front-end & Back-end - Dev Quest - Dev Em Dobro
   👩‍💻 Full Stack Developer - SENAI
-  👩‍💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
+  👩‍💻 Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
   </div>
  
- <br>
- 
-  ### Minhas redes sociais!
+### Minhas redes sociais!
  
 <div> 
   <a href="https://www.linkedin.com/in/resendedev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
