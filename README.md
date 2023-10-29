@@ -1,4 +1,4 @@
-### Oi!!! Seja bem vindo! Eu sou o Ronaldo Tsukamoto 👋
+### Oi!!! Seja bem vindo! Eu sou o Julio Resende 👋
 
 <div>
   <a href="https://github.com/julioresende77">
