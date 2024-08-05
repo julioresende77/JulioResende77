@@ -64,7 +64,7 @@
   <div>
    
   <a href="https://github.com/julioresende77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?  username=julioresende77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julioresende77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioresende77&layout=compact&langs_count=6&theme=tokyonight"/>
    
 </div>
