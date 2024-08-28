@@ -33,14 +33,39 @@
 
 ### 🖥️Outros
 
+<style>
+ .container-slide {
+  width: 75vw;
+  white-space: nowrap;
+  overflow: hidden;
+ }
+
+ .paginas-slide {
+  display: inline-block;
+  animation: anima 5s linear infinite;
+ }
+
+ @keyframes anima {
+  0% {
+      transform: translateX(0);
+  }
+  100% {
+      transform: translateX(-50%);
+  }
+ }
+</style>
+
+<div class="container-slide">
+  <div class="paginas-slide" style="display: inline-block">
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  </div>
+</div>
   
 </div>
 
